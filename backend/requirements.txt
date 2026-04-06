@@ -1,0 +1,15 @@
+﻿Flask==3.0.3
+Flask-JWT-Extended==4.6.0
+Flask-SQLAlchemy==3.1.1
+Flask-Migrate==4.0.7
+Flask-Cors==4.0.1
+marshmallow==3.21.3
+marshmallow-sqlalchemy==1.1.0
+SQLAlchemy==2.0.32
+GeoAlchemy2==0.15.2
+psycopg2-binary==2.9.9
+Shapely==2.0.5
+python-dotenv==1.0.1
+pytest==8.3.2
+pytest-cov==5.0.0
+
